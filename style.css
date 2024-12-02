@@ -14,3 +14,7 @@ html{
 	-o-background-size: cover;
 	background-size: cover;
 }
+
+.center-text {
+	text-align: center;
+}
