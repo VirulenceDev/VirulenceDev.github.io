@@ -2,13 +2,10 @@
 {
 	margin: 0;
 	padding: 0;
-	font-family: 'Optima', sans-serif;
-}
-.wrapper{
-	width 1170px;
-	margin: auto;
+	font-family: Verdana, sans-serif;
 }
 
 body{
-	background: url("viMarble2.png");
+	background-color: black;
+	background: url("docs/assets/viMarble2.png");
 }
