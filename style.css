@@ -9,11 +9,11 @@
 	margin: auto;
 }
 
-body{
+html{
 	background-color: black;
-	background: url("docs/assets/viMarble2.png");
-	height: 100vh;
+	background: url("docs/assets/viMarble2.png") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	background-size: cover;
-	background-position: center center;
-	position: relative;
 }
