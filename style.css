@@ -4,14 +4,11 @@
 	padding: 0;
 	font-family: Verdana, sans-serif;
 }
-.wrapper{
-	width: 1170px;
-	margin: auto;
-}
 
 html{
 	background-color: black;
 	background: url("docs/assets/viMarble2.png") no-repeat center center fixed;
+	height: 100%;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
