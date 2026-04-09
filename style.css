@@ -70,9 +70,14 @@ html{
 }
 
 .title-text-background {
-  background-color: #000;
-  border-radius: 8px;
-  border: 1px solid #000;
-  filter: alpha(opacity=60);
-  opacity: 0.60;
+	background-color: #000;
+	border-radius: 8px;
+	border: 1px solid #000;
+	filter: alpha(opacity=60);
+	opacity: 0.60;
+	height: 85%;
+	display: flex;
+	inset: 10%;
+	width: 60%;
+	margin: 0 auto;
 }
